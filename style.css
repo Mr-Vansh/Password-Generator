@@ -29,6 +29,7 @@ body {
   color: #6c6a6a;
   border-radius: 3px;
   margin: 5px 10px;
+  overflow:"scroll";
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
